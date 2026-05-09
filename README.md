@@ -179,4 +179,4 @@ Make sure your usage complies with:
 
 # 👨‍💻 Author
 
-Made by **Baozi** 😄
+Made by **Baozi**
