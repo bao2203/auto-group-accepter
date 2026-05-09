@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@rbxts/types": "^1.0.918",
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/index.ts",
+    "dev": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@rbxts/services": "^1.6.0",
+    "axios": "^1.16.0",
+    "bottleneck": "^2.19.5",
+    "dotenv": "^17.4.2",
+    "fs": "^0.0.1-security"
+  },
+  "type": "module"
+}
